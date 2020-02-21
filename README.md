@@ -2,8 +2,7 @@
 "Showing the brilliance of the night sky in an ever-expanding universe."
 
 ## Site URL
-https://drubaloo.github.io/Up-Above/
-
+https://nick-hernstedt.github.io/Up-Above/
 ## What it is
 Up Above is a website that aims to inform. It does the following:
 - provides the user with the NASA image of the day of the day they choose
