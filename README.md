@@ -9,7 +9,7 @@ Up Above is a website that aims to inform. It does the following:
 - has every image that NASA has featured, from 2015 until present time
 - provides basic information and links to more information on: sun, earth, mars, mercury, venus, jupiter, neptune, uranus, saturn, and pluto
 ##
-![Picture of site](./assets/images/upabove.png)
+![Picture of site](./assets/images/upAbove.png)
 ## Upcoming features
 - lunar phases
 - age calculator
