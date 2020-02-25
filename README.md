@@ -14,11 +14,12 @@ Up Above is a website that aims to inform. It does the following:
 - age calculator
 
 ## Technologies
-HTML
-CSS / Parallax
-JavaScript
-jQuery
-Materialize
+- Responsive Design
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Materialize
 
 ## APIs
 > Solar System Open Data: https://www.programmableweb.com/api/solar-system-opendata
